@@ -2,3 +2,5 @@
 mod longest_substring_without_repeating_characters;
 #[path = "5.longest-palindromic-substring.rs"]
 mod longest_palindromic_substring;
+#[path = "51.n-queens.rs"]
+mod n_queens;
